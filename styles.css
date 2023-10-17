@@ -1,9 +1,9 @@
 body {
-    background-color: palegoldenrod;
+    background-color:darkslategrey;
     font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
-    color:darkslategray; 
+    color:palegoldenrod; 
     text-align: center;
 }
 .assign {
