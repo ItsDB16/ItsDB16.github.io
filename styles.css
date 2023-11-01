@@ -16,6 +16,7 @@ h1 {
 .assign img {
     width: 200px;
     padding: 10px;
+    border: 2px solid midnightblue;
 }
 a {
  text-decoration: none; /* remove underlining on anchor tags */
