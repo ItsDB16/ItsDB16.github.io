@@ -9,6 +9,7 @@ h1 {
 .assign {
     margin: 10px;
     padding: 10px;
+    border: 2px solid midnightblue;
     background-color:aquamarine;
     display: flex;
 }
@@ -16,3 +17,7 @@ h1 {
     width: 200px;
     padding: 10px;
 }
+a {
+ text-decoration: none; /* remove underlining on anchor tags */
+ color: midnightblue; /* pick the color you want */
+
