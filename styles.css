@@ -9,11 +9,6 @@ h1 {
     text-align: center;
     width: 100%;
     display: block;
-    h1:hover {
-        color: salmon;
-        text-align: center;
-        width: 100%;
-        display: block;
 }
 .assign {
     margin: 10px;
@@ -26,11 +21,6 @@ h1 {
     border-radius: 20px; /* set last assignment */
 }
 .assign img {
-    width: 200px;
-    padding: 10px;
-    border: 2px dotted midnightblue;
-}
-.assign img:hover {
     width: 200px;
     padding: 10px;
     border: 2px dotted midnightblue;
