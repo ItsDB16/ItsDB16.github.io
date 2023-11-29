@@ -11,7 +11,7 @@ h1 {
     display: block;
 }
 h1:hover {
- color: hotpink;
+ color: palegoldenrod;
  text-align: center;
  width: 100%;
  display: block;
@@ -34,7 +34,7 @@ h1:hover {
 .assign img:hover {
  width: 200px;
  margin: 10px;
- border: 2px dotted yellow;
+ border: 2px dotted midnightblue;
 }
 a {
  text-decoration: none; /* remove underlining on anchor tags */
